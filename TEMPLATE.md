@@ -52,7 +52,7 @@ I actively engage with learning communities and student-driven initiatives that 
 ## Domain Profiles
 ### Designer
 * LinkedIn: https://www.linkedin.com/in/sreehari-puthenveedu-sunilkumar-19b01a38a 
-* GitHub: https://github.com/ sreehari-03
+* GitHub: https://github.com/sreehari-03
 ---
 ## Tools, Workflows & Automations
 ### Design Tools
